@@ -146,8 +146,8 @@ public class HelloServlet extends HttpServlet {
                     new Typed('#typed-text', {
                         strings: [
                             "Hello, I'm vighnesh thigale 👋",
-                            "DevOps Engineer",
-                            "Welcome to My App!"
+                            "DevOps Engineer in it",
+                            "Welcome to My App you all!"
                         ],
                         typeSpeed: 60,
                         backSpeed: 30,
